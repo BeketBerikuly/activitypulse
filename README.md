@@ -10,6 +10,7 @@ Creating projects and activities,
 View available developers and assign them to activities,
 
 Estimate remains time and total time.
+***
 
 ### Technologies:
 Design/mockup: Figma
