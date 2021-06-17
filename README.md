@@ -3,10 +3,10 @@ Activity Pulse is an activity monitoring web application for monitoring work. It
 ***
 
 ### Main features:
-Monitoring projects and activities,
-Creating projects and activities,
-View available developers and assign them to activities,
-Estimate remains time and total time.
+####Monitoring projects and activities,
+####Creating projects and activities,
+####View available developers and assign them to activities,
+####Estimate remains time and total time.
 
 ### Technologies:
 Design/mockup: Figma
