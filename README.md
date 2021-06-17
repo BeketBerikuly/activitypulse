@@ -13,7 +13,11 @@ Estimate remains time and total time.
 
 ### Technologies:
 Design/mockup: Figma
+
 Frontend: HTML, CSS, Js, Bootstrap 5
+
 Backend: PHP7, MySQL, Python
+
 Remote DB: MySQL workBench
+
 Deploy: Heroku, Github
